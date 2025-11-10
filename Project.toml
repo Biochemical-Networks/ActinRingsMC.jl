@@ -1,7 +1,7 @@
 name = "ActinRingsMC"
 uuid = "9ef53a5f-0b2d-4acd-b164-e3995a0d2389"
-authors = ["Alexander Cumberworth <alex@cumberworth.org>"]
 version = "1.0.1"
+authors = ["Alexander Cumberworth <alex@cumberworth.org>"]
 
 [deps]
 Debugger = "31a5f54b-26ea-5ae9-a837-f05ce5417438"
@@ -14,7 +14,7 @@ Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
 
 [compat]
 Debugger = "0.7"
-DocStringExtensions = "0.8"
+DocStringExtensions = "0.8, 0.9"
 JSON = "0.21"
-julia = "1.6"
 Revise = "3"
+julia = "1.6"
